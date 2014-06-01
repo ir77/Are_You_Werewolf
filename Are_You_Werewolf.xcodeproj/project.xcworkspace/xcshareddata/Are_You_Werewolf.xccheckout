@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FA870AD5-3CEB-4510-9515-A3525BD4B9B0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Are_You_Werewolf</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>945983EE-AFB1-4CEB-86D7-85E5E9DB67D4</key>
+		<string>https://bitbucket.org/ISDL_EUC/are_you_werewolf.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Are_You_Werewolf.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>945983EE-AFB1-4CEB-86D7-85E5E9DB67D4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/ISDL_EUC/are_you_werewolf.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>945983EE-AFB1-4CEB-86D7-85E5E9DB67D4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>945983EE-AFB1-4CEB-86D7-85E5E9DB67D4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Are_You_Werewolf</string>
+		</dict>
+	</array>
+</dict>
+</plist>
